@@ -114,8 +114,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Shagufta."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I am passionate about artifificial intelligence."
+    content: "I love exploring new use cases of machine learning and deep learning to solve real world problems. I am interested in AI research, particularly in computer vision and natural language processing."
     image: "/images/myself.png"
     button:
       enable: true
@@ -139,8 +139,8 @@ params:
     image: "/images/desk.jpg"
     content: |-
       I am a computer science and engineering undergrad student from Hyderabad, India. 
-      I have a strong interest in machine learning and artificial intelligence, and I am currently working on a couple of research projects in this field. 
-      I aspire to pursue a masters degree in computer science with a specialization in AI. It is my dream to conduct cutting-edge research at an organization devoted to leveraging the power of AI for social good.
+      Over the years, I have developed a strong interest in machine learning and artificial intelligence, and I am currently working on a couple of research projects in this field.
+      I aspire to pursue a masters degree in computer science with a specialization in AI. My dream is to conduct cutting-edge research at an organization devoted to leveraging the power of AI for social good.
     skills:
       enable: true
       title: "Here are a few topics that excite me:"
